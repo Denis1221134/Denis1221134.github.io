@@ -2,3 +2,5 @@
 Разработка сайта
 
 [CSS-препроцессор LESS](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/)
+
+[Язык JavaScript](https://learn.javascript.ru/js)
