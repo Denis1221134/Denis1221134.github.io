@@ -1,2 +1,4 @@
 # Denis1221134.github.io
-Мой первый опубликованный сайт
+Разработка сайта
+
+[CSS-препроцессор LESS](https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/)
